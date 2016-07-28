@@ -1,9 +1,11 @@
 {
   "name": "language-topas",
+  "author": "Joost Verburg <jverburg@mgh.harvard.edu>",
   "version": "0.0.1",
   "description": "Syntax highlighting for TOPAS",
   "engines": {
     "atom": "*",
     "node": "*"
-  }
+  },
+  "repository": "https://github.com/joostverburg/language-topas"
 }
