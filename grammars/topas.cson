@@ -1,7 +1,7 @@
 {
   "name": "TOPAS",
   "scopeName": "text.topas",
-  "fileTypes": ['topas'],
+  "fileTypes": ['topas','tps'],
   "patterns": [
     {
       "include": "#comment"
